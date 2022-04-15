@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.52cad67a.css",
-    "main.js": "/static/js/main.768495e1.js",
+    "main.css": "/static/css/main.01e64b82.css",
+    "main.js": "/static/js/main.e347ef20.js",
     "static/media/Features-BG.png": "/static/media/Features-BG.572bfe7eb5c682787800.png",
     "static/media/CryptoIllustration.png": "/static/media/CryptoIllustration.9c4ec41ecb6175850996.png",
     "static/media/Categories-BG.png": "/static/media/Categories-BG.6acd811107537210f52b.png",
@@ -13,11 +13,11 @@
     "static/media/Raven-Logo.png": "/static/media/Raven-Logo.3210e0fbc74704496c84.png",
     "static/media/nest-image.png": "/static/media/nest-image.cf82543a6ae1cb1c752e.png",
     "index.html": "/index.html",
-    "main.52cad67a.css.map": "/static/css/main.52cad67a.css.map",
-    "main.768495e1.js.map": "/static/js/main.768495e1.js.map"
+    "main.01e64b82.css.map": "/static/css/main.01e64b82.css.map",
+    "main.e347ef20.js.map": "/static/js/main.e347ef20.js.map"
   },
   "entrypoints": [
-    "static/css/main.52cad67a.css",
-    "static/js/main.768495e1.js"
+    "static/css/main.01e64b82.css",
+    "static/js/main.e347ef20.js"
   ]
 }
