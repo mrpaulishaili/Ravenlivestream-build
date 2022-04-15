@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.52cad67a.css",
+    "main.js": "/static/js/main.768495e1.js",
+    "static/media/Features-BG.png": "/static/media/Features-BG.572bfe7eb5c682787800.png",
+    "static/media/CryptoIllustration.png": "/static/media/CryptoIllustration.9c4ec41ecb6175850996.png",
+    "static/media/Categories-BG.png": "/static/media/Categories-BG.6acd811107537210f52b.png",
+    "static/media/Frame 2524.png": "/static/media/Frame 2524.79ed52d120d8410112ee.png",
+    "static/media/HostingIllustration.png": "/static/media/HostingIllustration.f052225a50245518561f.png",
+    "static/media/WithdrawIllustration.png": "/static/media/WithdrawIllustration.d81ff1900b7bcb5eb33e.png",
+    "static/media/iPhone 13.png": "/static/media/iPhone 13.e9f281b2b63fd8cf0915.png",
+    "static/media/discolines.png": "/static/media/discolines.c960485875daccc5f4bb.png",
+    "static/media/Raven-Logo.png": "/static/media/Raven-Logo.3210e0fbc74704496c84.png",
+    "static/media/nest-image.png": "/static/media/nest-image.cf82543a6ae1cb1c752e.png",
+    "index.html": "/index.html",
+    "main.52cad67a.css.map": "/static/css/main.52cad67a.css.map",
+    "main.768495e1.js.map": "/static/js/main.768495e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52cad67a.css",
+    "static/js/main.768495e1.js"
+  ]
+}
